@@ -26,3 +26,5 @@ Latihan 07
 
 Latihan 08
 ![alt text](https://github.com/Rahmawatiasysyifaputri/Latihan-Modul-2/blob/master/ss%20latihan%208.PNG?raw=true)
+
+Jadi materi yang kita pelajari ini adalah CSS Dasar dengan format penulisan internal style sheet.
